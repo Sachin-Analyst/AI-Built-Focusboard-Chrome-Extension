@@ -23,8 +23,11 @@ Welcome to my FocusBoard project. This repository features a personal productivi
 ## Introduction
 
 *Project Title:* AI-Built FocusBoard — Chrome Extension
+
 *Created By:* Sachin-Analyst
+
 *Tools Used:*Claude Sonnet 4.6, Gemini Pro 2.1, Google Antigravity, Gemini Flash
+
 *Focus Areas:* Personal Productivity, AI-Assisted Development, Multi-Model Workflow
 
 ----
