@@ -55,6 +55,15 @@ This repository contains a Chrome Extension that replaces your default new tab p
 - *Quote of the Day*
 - *Focus Mode*
 
+## AI Build Workflow
+
+This project was built using a 4-phase multi-model AI workflow. No code was written manually.
+
+- *Phase 01 — PRD* — Claude Sonnet 4.6
+- *Phase 02 — Atomic Design* — Gemini Pro 2.1
+- *Phase 03 — Phase Build* — Claude Sonnet 4.6
+- *Phase 04 — Completions* — Gemini Flash
+
 
 ## Installation
 
